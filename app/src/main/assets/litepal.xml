@@ -1,0 +1,11 @@
+<litepal>
+      <dbname value="springdawn_weather"/>
+      <version value="1"/>
+      <list>
+          <mapping class="com.example.xiaocomputer.springdawnweather.db.Province"/>
+          <mapping class="com.example.xiaocomputer.springdawnweather.db.City"/>
+          <mapping class="com.example.xiaocomputer.springdawnweather.db.County"/>
+      </list>
+
+
+</litepal>
